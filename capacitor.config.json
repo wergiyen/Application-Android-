@@ -1,0 +1,13 @@
+{
+  "appId": "com.nevisense.telemetry.app",
+  "appName": "NEVISENSE Telemetry",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
